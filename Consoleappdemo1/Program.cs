@@ -11,6 +11,9 @@ namespace Consoleappdemo1
         static void Main(string[] args)
         {
             Console.write("hello");
+            Console.write("hello");
+            Console.write("hello");
+
         }
     }
 }
