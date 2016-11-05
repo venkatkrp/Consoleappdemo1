@@ -10,6 +10,7 @@ namespace Consoleappdemo1
     {
         static void Main(string[] args)
         {
+            Console.write("hello");
         }
     }
 }
